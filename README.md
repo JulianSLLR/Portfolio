@@ -1,6 +1,6 @@
 # 👨‍💻 Portfolio Personnel - Julian SEILLER
 
-Bienvenue sur le dépôt de mon portfolio web interactif ! Ce site a été conçu pour présenter mon parcours, mes compétences techniques (BTS SIO option SLAM) et mes réalisations professionnelles.
+Bienvenue sur le dépôt de mon portfolio web interactif ! Ce site a été conçu pour présenter mon parcours, mes compétences techniques et mes réalisations professionnelles.
 
 🌍 **Voir le site en ligne :** [portfolio-juliansllr.vercel.app](https://portfolio-juliansllr.vercel.app)
 
